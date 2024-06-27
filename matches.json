@@ -6,7 +6,7 @@
   "goals1": 2,
   "goals2": 0,
   "city": "Atlanta",
-  "date": "20/6",
+  "date": "20/6"
 },
 {
   "stage": "groups",
@@ -16,7 +16,7 @@
   "goals1": 0,
   "goals2": 0,
   "city": "Arlington",
-  "date": "21/6",
+  "date": "21/6"
 },
 {
   "stage": "groups",
@@ -26,7 +26,7 @@
   "goals1": 1,
   "goals2": 0,
   "city": "Houston",
-  "date": "22/6",
+  "date": "22/6"
 },
 {
   "stage": "groups",
@@ -36,7 +36,7 @@
   "goals1": 1,
   "goals2": 2,
   "city": "Santa Clara",
-  "date": "22/6",
+  "date": "22/6"
 },
 {
   "stage": "groups",
@@ -46,7 +46,7 @@
   "goals1": 2,
   "goals2": 0,
   "city": "Arlington",
-  "date": "23/6",
+  "date": "23/6"
 },
 {
   "stage": "groups",
@@ -56,7 +56,7 @@
   "goals1": 3,
   "goals2": 1,
   "city": "Miami",
-  "date": "23/6",
+  "date": "23/6"
 },
 {
   "stage": "groups",
@@ -66,7 +66,7 @@
   "goals1": 0,
   "goals2": 0,
   "city": "Inglewood",
-  "date": "24/6",
+  "date": "24/6"
 },
 {
   "stage": "groups",
@@ -76,7 +76,7 @@
   "goals1": 2,
   "goals2": 1,
   "city": "Houston",
-  "date": "24/6",
+  "date": "24/6"
 },
 {
   "stage": "groups",
@@ -86,7 +86,7 @@
   "goals1": 0,
   "goals2": 1,
   "city": "East Rutherford",
-  "date": "25/6",
+  "date": "25/6"
 },
 {
   "stage": "groups",
@@ -96,7 +96,7 @@
   "goals1": 0,
   "goals2": 1,
   "city": "Kansas City",
-  "date": "25/6",
+  "date": "25/6"
 },
 {
   "stage": "groups",
@@ -106,7 +106,7 @@
   "goals1": 1,
   "goals2": 0,
   "city": "Inglewood",
-  "date": "26/6",
+  "date": "26/6"
 },
 {
   "stage": "groups",
@@ -116,7 +116,7 @@
   "goals1": 3,
   "goals2": 1,
   "city": "Las Vegas",
-  "date": "26/6",
+  "date": "26/6"
 },
 {
   "stage": "groups",
@@ -126,7 +126,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Atlanta",
-  "date": "27/6",
+  "date": "27/6"
 },
 {
   "stage": "groups",
@@ -136,7 +136,7 @@
   "goals1": null,
   "goals2": null,
   "city": "East Rutherford",
-  "date": "27/6",
+  "date": "27/6"
 },
 {
   "stage": "groups",
@@ -146,7 +146,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Las Vegas",
-  "date": "28/6",
+  "date": "28/6"
 },
 {
   "stage": "groups",
@@ -156,7 +156,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Glendale",
-  "date": "28/6",
+  "date": "28/6"
 },
 {
   "stage": "groups",
@@ -166,7 +166,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Miami",
-  "date": "29/6",
+  "date": "29/6"
 },
 {
   "stage": "groups",
@@ -176,7 +176,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Orlando",
-  "date": "29/6",
+  "date": "29/6"
 },
 {
   "stage": "groups",
@@ -186,7 +186,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Glendale",
-  "date": "30/6",
+  "date": "30/6"
 },
 {
   "stage": "groups",
@@ -196,7 +196,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Austin",
-  "date": "30/6",
+  "date": "30/6"
 },
 {
   "stage": "groups",
@@ -206,7 +206,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Kansas City",
-  "date": "1/7",
+  "date": "1/7"
 },
 {
   "stage": "groups",
@@ -216,7 +216,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Orlando",
-  "date": "1/7",
+  "date": "1/7"
 },
 {
   "stage": "groups",
@@ -226,7 +226,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Santa Clara",
-  "date": "2/7",
+  "date": "2/7"
 },
 {
   "stage": "groups",
@@ -236,7 +236,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Austin",
-  "date": "2/7",
+  "date": "2/7"
 },
 {
   "stage": "quarters"
@@ -245,7 +245,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Houston"
-  "date": "4/7",
+  "date": "4/7"
 },
 {
   "stage": "quarters"
@@ -254,7 +254,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Arlington"
-  "date": "5/7",
+  "date": "5/7"
 },
 {
   "stage": "quarters"
@@ -263,7 +263,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Las Vegas"
-  "date": "6/7",
+  "date": "6/7"
 },
 {
   "stage": "quarters"
@@ -272,7 +272,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Glendale"
-  "date": "6/7",
+  "date": "6/7"
 },
 {
   "stage": "semifinals"
@@ -281,7 +281,7 @@
   "goals1": null,
   "goals2": null,
   "city": "East Rutherford"
-  "date": "9/7",
+  "date": "9/7"
 },
 {
   "stage": "semifinals"
@@ -290,7 +290,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Charlotte"
-  "date": "10/7",
+  "date": "10/7"
 },
 {
   "stage": "third"
@@ -299,7 +299,7 @@
   "goals1": null,
   "goals2": null,
   "city": "Charlotte"
-  "date": "13/7",
+  "date": "13/7"
 },
 {
   "stage": "final"
@@ -308,6 +308,6 @@
   "goals1": null,
   "goals2": null,
   "city": "Miami"
-  "date": "14/7",
+  "date": "14/7"
 },
 ]
