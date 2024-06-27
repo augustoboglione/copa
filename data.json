@@ -4,7 +4,7 @@
     "B": ["VEN", "MEX", "ECU", "JAM"],
     "C": ["URY", "USA", "PAN", "BOL"],
     "D": ["COL", "BRA", "CRI", "PRY"]
-  }
+  },
   "names": {
     "ARG": "Argentina",
     "BOL": "Bolivia",
@@ -22,7 +22,7 @@
     "PER": "Perú",
     "URY": "Uruguay",
     "VEN": "Venezuela"
-  }
+  },
   "matches" : [{
     "stage": "groups",
     "group": "A",
