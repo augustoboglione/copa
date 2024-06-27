@@ -24,7 +24,7 @@
     "VEN": "Venezuela"
   },
   "matches" : [{
-    "id": 0,
+    "id": 1,
     "stage": "Grupos",
     "group": "A",
     "country1": "ARG",
@@ -32,10 +32,11 @@
     "goals1": 2,
     "goals2": 0,
     "city": "Atlanta",
-    "date": "20/6"
+    "date": "20/006",
+    "time": "21:00"
   },
   {
-    "id": 1,
+    "id": 2,
     "stage": "Grupos",
     "group": "A",
     "country1": "PER",
@@ -43,10 +44,11 @@
     "goals1": 0,
     "goals2": 0,
     "city": "Arlington",
-    "date": "21/6"
+    "date": "21/06",
+    "time": "20:00"
   },
   {
-    "id": 2,
+    "id": 3,
     "stage": "Grupos",
     "group": "B",
     "country1": "MEX",
@@ -54,10 +56,11 @@
     "goals1": 1,
     "goals2": 0,
     "city": "Houston",
-    "date": "22/6"
+    "date": "22/06",
+    "time": "21:00"
   },
   {
-    "id": 3,
+    "id": 4,
     "stage": "Grupos",
     "group": "B",
     "country1": "ECU",
@@ -65,10 +68,11 @@
     "goals1": 1,
     "goals2": 2,
     "city": "Santa Clara",
-    "date": "22/6"
+    "date": "22/06",
+    "time": "16:00"
   },
   {
-    "id": 4,
+    "id": 5,
     "stage": "Grupos",
     "group": "C",
     "country1": "USA",
@@ -76,10 +80,11 @@
     "goals1": 2,
     "goals2": 0,
     "city": "Arlington",
-    "date": "23/6"
+    "date": "23/06",
+    "time": "18:00"
   },
   {
-    "id": 5,
+    "id": 6,
     "stage": "Grupos",
     "group": "C",
     "country1": "URY",
@@ -87,10 +92,11 @@
     "goals1": 3,
     "goals2": 1,
     "city": "Miami",
-    "date": "23/6"
+    "date": "23/06",
+    "time": "22:00"
   },
   {
-    "id": 6,
+    "id": 7,
     "stage": "Grupos",
     "group": "D",
     "country1": "BRA",
@@ -98,10 +104,11 @@
     "goals1": 0,
     "goals2": 0,
     "city": "Inglewood",
-    "date": "24/6"
+    "date": "24/06",
+    "time": "19:00"
   },
   {
-    "id": 7,
+    "id": 8,
     "stage": "Grupos",
     "group": "D",
     "country1": "COL",
@@ -109,10 +116,11 @@
     "goals1": 2,
     "goals2": 1,
     "city": "Houston",
-    "date": "24/6"
+    "date": "24/06",
+    "time": "18:00"
   },
   {
-    "id": 8,
+    "id": 9,
     "stage": "Grupos",
     "group": "A",
     "country1": "CHL",
@@ -120,10 +128,11 @@
     "goals1": 0,
     "goals2": 1,
     "city": "East Rutherford",
-    "date": "25/6"
+    "date": "25/06",
+    "time": "22:00"
   },
   {
-    "id": 9,
+    "id": 10,
     "stage": "Grupos",
     "group": "A",
     "country1": "PER",
@@ -131,10 +140,11 @@
     "goals1": 0,
     "goals2": 1,
     "city": "Kansas City",
-    "date": "25/6"
+    "date": "25/06",
+    "time": "18:00"
   },
   {
-    "id": 10,
+    "id": 11,
     "stage": "Grupos",
     "group": "B",
     "country1": "VEN",
@@ -142,10 +152,11 @@
     "goals1": 1,
     "goals2": 0,
     "city": "Inglewood",
-    "date": "26/6"
+    "date": "26/06",
+    "time": "19:00"
   },
   {
-    "id": 11,
+    "id": 12,
     "stage": "Grupos",
     "group": "B",
     "country1": "ECU",
@@ -153,10 +164,11 @@
     "goals1": 3,
     "goals2": 1,
     "city": "Las Vegas",
-    "date": "26/6"
+    "date": "26/06",
+    "time": "16:00"
   },
   {
-    "id": 12,
+    "id": 13,
     "stage": "Grupos",
     "group": "C",
     "country1": "PAN",
@@ -164,10 +176,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Atlanta",
-    "date": "27/6"
+    "date": "27/06",
+    "time": "19:00"
   },
   {
-    "id": 13,
+    "id": 14,
     "stage": "Grupos",
     "group": "C",
     "country1": "URY",
@@ -175,10 +188,11 @@
     "goals1": null,
     "goals2": null,
     "city": "East Rutherford",
-    "date": "27/6"
+    "date": "27/06",
+    "time": "22:00"
   },
   {
-    "id": 14,
+    "id": 15,
     "stage": "Grupos",
     "group": "D",
     "country1": "PAR",
@@ -186,10 +200,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Las Vegas",
-    "date": "28/6"
+    "date": "28/06",
+    "time": "19:00"
   },
   {
-    "id": 15,
+    "id": 16,
     "stage": "Grupos",
     "group": "D",
     "country1": "COL",
@@ -197,10 +212,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Glendale",
-    "date": "28/6"
+    "date": "28/06",
+    "time": "16:00"
   },
   {
-    "id": 16,
+    "id": 17,
     "stage": "Grupos",
     "group": "A",
     "country1": "ARG",
@@ -208,10 +224,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Miami",
-    "date": "29/6"
+    "date": "29/06",
+    "time": "21:00"
   },
   {
-    "id": 17,
+    "id": 18,
     "stage": "Grupos",
     "group": "A",
     "country1": "CAN",
@@ -219,10 +236,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Orlando",
-    "date": "29/6"
+    "date": "29/06",
+    "time": "21:00"
   },
   {
-    "id": 18,
+    "id": 19,
     "stage": "Grupos",
     "group": "B",
     "country1": "MEX",
@@ -230,10 +248,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Glendale",
-    "date": "30/6"
+    "date": "30/06",
+    "time": "18:00"
   },
   {
-    "id": 19,
+    "id": 20,
     "stage": "Grupos",
     "group": "B",
     "country1": "JAM",
@@ -241,10 +260,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Austin",
-    "date": "30/6"
+    "date": "30/06",
+    "time": "20:00"
   },
   {
-    "id": 20,
+    "id": 21,
     "stage": "Grupos",
     "group": "C",
     "country1": "USA",
@@ -252,10 +272,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Kansas City",
-    "date": "1/7"
+    "date": "01/07",
+    "time": "21:00"
   },
   {
-    "id": 21,
+    "id": 22,
     "stage": "Grupos",
     "group": "C",
     "country1": "BOL",
@@ -263,10 +284,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Orlando",
-    "date": "1/7"
+    "date": "01/07",
+    "time": "22:00"
   },
   {
-    "id": 22,
+    "id": 23,
     "stage": "Grupos",
     "group": "D",
     "country1": "BRA",
@@ -274,10 +296,11 @@
     "goals1": null,
     "goals2": null,
     "city": "Santa Clara",
-    "date": "2/7"
+    "date": "02/07",
+    "time": "19:00"
   },
   {
-    "id": 23,
+    "id": 24,
     "stage": "Grupos",
     "group": "D",
     "country1": "CRI",
@@ -285,87 +308,96 @@
     "goals1": null,
     "goals2": null,
     "city": "Austin",
-    "date": "2/7"
+    "date": "02/07",
+    "time": "21:00"
   },
   {
     
-    "id": 24,
+    "id": 25,
     "stage": "Cuartos",
     "country1": "1A",
     "country2": "2B",
     "goals1": null,
     "goals2": null,
     "city": "Houston",
-    "date": "4/7"
+    "date": "04/07",
+    "time": "21:00"
   },
   {
-    "id": 25,
+    "id": 26,
     "stage": "Cuartos",
     "country1": "1B",
     "country2": "2A",
     "goals1": null,
     "goals2": null,
     "city": "Arlington",
-    "date": "5/7"
+    "date": "05/07",
+    "time": "21:00"
   },
   {
-    "id": 26,
+    "id": 27,
     "stage": "Cuartos",
     "country1": "1C",
     "country2": "2D",
     "goals1": null,
     "goals2": null,
     "city": "Las Vegas",
-    "date": "6/7"
+    "date": "06/07",
+    "time": "19:00"
   },
   {
-    "id": 27,
+    "id": 28,
     "stage": "Cuartos",
     "country1": "1D",
     "country2": "2C",
     "goals1": null,
     "goals2": null,
     "city": "Glendale",
-    "date": "6/7"
-  },
-  {
-    "id": 28,
-    "stage": "Semifinales",
-    "country1": "1A/2B",
-    "country2": "1B/2A",
-    "goals1": null,
-    "goals2": null,
-    "city": "East Rutherford",
-    "date": "9/7"
+    "date": "06/07",
+    "time": "16:00"
   },
   {
     "id": 29,
     "stage": "Semifinales",
-    "country1": "1C/2D",
-    "country2": "1D/2C",
+    "country1": "G25",
+    "country2": "G26",
     "goals1": null,
     "goals2": null,
-    "city": "Charlotte",
-    "date": "10/7"
+    "city": "East Rutherford",
+    "date": "09/07",
+    "time": "21:00"
   },
   {
     "id": 30,
-    "stage": "Tercer puesto",
-    "country1": "A/B",
-    "country2": "C/D",
+    "stage": "Semifinales",
+    "country1": "G27",
+    "country2": "G28",
     "goals1": null,
     "goals2": null,
     "city": "Charlotte",
-    "date": "13/7"
+    "date": "10/07",
+    "time": "21:00"
   },
   {
     "id": 31,
+    "stage": "Tercer puesto",
+    "country1": "P29",
+    "country2": "P30",
+    "goals1": null,
+    "goals2": null,
+    "city": "Charlotte",
+    "date": "13/07",
+    "time": "21:00"
+  },
+  {
+    "id": 32,
     "stage": "Final",
-    "country1": "A/B",
-    "country2": "C/D",
+    "country1": "G29",
+    "country2": "G30",
     "goals1": null,
     "goals2": null,
     "city": "Miami",
-    "date": "14/7"
+    "date": "14/07",
+    "time": "21:00"
   }]
 }
