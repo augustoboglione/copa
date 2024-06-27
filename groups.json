@@ -1,7 +1,6 @@
 {
-  "a": {
-    "arg": {
-      "pt": 6,
-      "g": 2,
-      "e": 0,
-      "p"
+  "A": ["ARG", "CAN", "PER", "CHL"],
+  "B": ["VEN", "MEX", "ECU", "JAM"],
+  "C": ["URY", "USA", "PAN", "BOL"],
+  "D": ["COL", "BRA", "CRI", "PRY"]
+}
