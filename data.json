@@ -24,6 +24,7 @@
     "VEN": "Venezuela"
   },
   "matches" : [{
+    "id": 0,
     "stage": "groups",
     "group": "A",
     "country1": "ARG",
@@ -34,6 +35,7 @@
     "date": "20/6"
   },
   {
+    "id": 1,
     "stage": "groups",
     "group": "A",
     "country1": "PER",
@@ -44,6 +46,7 @@
     "date": "21/6"
   },
   {
+    "id": 2,
     "stage": "groups",
     "group": "B",
     "country1": "MEX",
@@ -54,6 +57,7 @@
     "date": "22/6"
   },
   {
+    "id": 3,
     "stage": "groups",
     "group": "B",
     "country1": "ECU",
@@ -64,6 +68,7 @@
     "date": "22/6"
   },
   {
+    "id": 4,
     "stage": "groups",
     "group": "C",
     "country1": "USA",
@@ -74,6 +79,7 @@
     "date": "23/6"
   },
   {
+    "id": 5,
     "stage": "groups",
     "group": "C",
     "country1": "URY",
@@ -84,6 +90,7 @@
     "date": "23/6"
   },
   {
+    "id": 6,
     "stage": "groups",
     "group": "D",
     "country1": "BRA",
@@ -94,6 +101,7 @@
     "date": "24/6"
   },
   {
+    "id": 7,
     "stage": "groups",
     "group": "D",
     "country1": "COL",
@@ -104,6 +112,7 @@
     "date": "24/6"
   },
   {
+    "id": 8,
     "stage": "groups",
     "group": "A",
     "country1": "CHL",
@@ -114,6 +123,7 @@
     "date": "25/6"
   },
   {
+    "id": 9,
     "stage": "groups",
     "group": "A",
     "country1": "PER",
@@ -124,6 +134,7 @@
     "date": "25/6"
   },
   {
+    "id": 10,
     "stage": "groups",
     "group": "B",
     "country1": "VEN",
@@ -134,6 +145,7 @@
     "date": "26/6"
   },
   {
+    "id": 11,
     "stage": "groups",
     "group": "B",
     "country1": "ECU",
@@ -144,6 +156,7 @@
     "date": "26/6"
   },
   {
+    "id": 12,
     "stage": "groups",
     "group": "C",
     "country1": "PAN",
@@ -154,6 +167,7 @@
     "date": "27/6"
   },
   {
+    "id": 13,
     "stage": "groups",
     "group": "C",
     "country1": "URY",
@@ -164,6 +178,7 @@
     "date": "27/6"
   },
   {
+    "id": 14,
     "stage": "groups",
     "group": "D",
     "country1": "PAR",
@@ -174,6 +189,7 @@
     "date": "28/6"
   },
   {
+    "id": 15,
     "stage": "groups",
     "group": "D",
     "country1": "COL",
@@ -184,6 +200,7 @@
     "date": "28/6"
   },
   {
+    "id": 16,
     "stage": "groups",
     "group": "A",
     "country1": "ARG",
@@ -194,6 +211,7 @@
     "date": "29/6"
   },
   {
+    "id": 17,
     "stage": "groups",
     "group": "A",
     "country1": "CAN",
@@ -204,6 +222,7 @@
     "date": "29/6"
   },
   {
+    "id": 18,
     "stage": "groups",
     "group": "B",
     "country1": "MEX",
@@ -214,6 +233,7 @@
     "date": "30/6"
   },
   {
+    "id": 19,
     "stage": "groups",
     "group": "B",
     "country1": "JAM",
@@ -224,6 +244,7 @@
     "date": "30/6"
   },
   {
+    "id": 20,
     "stage": "groups",
     "group": "C",
     "country1": "USA",
@@ -234,6 +255,7 @@
     "date": "1/7"
   },
   {
+    "id": 21,
     "stage": "groups",
     "group": "C",
     "country1": "BOL",
@@ -244,6 +266,7 @@
     "date": "1/7"
   },
   {
+    "id": 22,
     "stage": "groups",
     "group": "D",
     "country1": "BRA",
@@ -254,6 +277,7 @@
     "date": "2/7"
   },
   {
+    "id": 23,
     "stage": "groups",
     "group": "D",
     "country1": "CRI",
@@ -264,6 +288,8 @@
     "date": "2/7"
   },
   {
+    
+    "id": 24,
     "stage": "quarters",
     "country1": "1A",
     "country2": "2B",
@@ -273,6 +299,7 @@
     "date": "4/7"
   },
   {
+    "id": 25,
     "stage": "quarters",
     "country1": "1B",
     "country2": "2A",
@@ -282,6 +309,7 @@
     "date": "5/7"
   },
   {
+    "id": 26,
     "stage": "quarters",
     "country1": "1C",
     "country2": "2D",
@@ -291,6 +319,7 @@
     "date": "6/7"
   },
   {
+    "id": 27,
     "stage": "quarters",
     "country1": "1D",
     "country2": "2C",
@@ -300,6 +329,7 @@
     "date": "6/7"
   },
   {
+    "id": 28,
     "stage": "semifinals",
     "country1": "1A/2B",
     "country2": "1B/2A",
@@ -309,6 +339,7 @@
     "date": "9/7"
   },
   {
+    "id": 29,
     "stage": "semifinals",
     "country1": "1C/2D",
     "country2": "1D/2C",
@@ -318,6 +349,7 @@
     "date": "10/7"
   },
   {
+    "id": 30,
     "stage": "third",
     "country1": "A/B",
     "country2": "C/D",
@@ -327,6 +359,7 @@
     "date": "13/7"
   },
   {
+    "id": 31,
     "stage": "final",
     "country1": "A/B",
     "country2": "C/D",
