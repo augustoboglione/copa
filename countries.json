@@ -1,18 +1,23 @@
 {
-  "ARG": "Argentina",
-  "BOL": "Bolivia",
-  "BRA": "Brasil",
-  "CHL": "Chile",
-  "CAN": "Canadá",
-  "COL": "Colombia",
-  "CRI": "Costa Rica",
-  "ECU": "Ecuador",
-  "USA": "EEUU",
-  "JAM": "Jamaica",
-  "MEX": "México",
-  "PAN": "Panamá",
-  "PRY": "Paraguay",
-  "PER": "Perú",
-  "URY": "Uruguay",
-  "VEN": "Venezuela"
+  "groups": {
+    
+  }
+  "names": {
+    "ARG": "Argentina",
+    "BOL": "Bolivia",
+    "BRA": "Brasil",
+    "CHL": "Chile",
+    "CAN": "Canadá",
+    "COL": "Colombia",
+    "CRI": "Costa Rica",
+    "ECU": "Ecuador",
+    "USA": "EEUU",
+    "JAM": "Jamaica",
+    "MEX": "México",
+    "PAN": "Panamá",
+    "PRY": "Paraguay",
+    "PER": "Perú",
+    "URY": "Uruguay",
+    "VEN": "Venezuela"
+  }
 }
