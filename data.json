@@ -23,6 +23,24 @@
     "URY": "Uruguay",
     "VEN": "Venezuela"
   },
+  "codes": {
+    "ARG": "ar",
+    "BOL": "bo",
+    "BRA": "br",
+    "CHL": "cl",
+    "CAN": "ca",
+    "COL": "co",
+    "CRI": "cr",
+    "ECU": "ec",
+    "USA": "us",
+    "JAM": "jm",
+    "MEX": "mx",
+    "PAN": "pa",
+    "PRY": "py",
+    "PER": "pe",
+    "URY": "uy",
+    "VEN": "ve"
+  }
   "matches" : [{
     "id": 1,
     "stage": "Grupos",
