@@ -245,7 +245,7 @@
   "country2": "2B",
   "goals1": null,
   "goals2": null,
-  "city": "Houston"
+  "city": "Houston",
   "date": "4/7"
 },
 {
@@ -254,7 +254,7 @@
   "country2": "2A",
   "goals1": null,
   "goals2": null,
-  "city": "Arlington"
+  "city": "Arlington",
   "date": "5/7"
 },
 {
@@ -263,7 +263,7 @@
   "country2": "2D",
   "goals1": null,
   "goals2": null,
-  "city": "Las Vegas"
+  "city": "Las Vegas",
   "date": "6/7"
 },
 {
@@ -272,7 +272,7 @@
   "country2": "2C",
   "goals1": null,
   "goals2": null,
-  "city": "Glendale"
+  "city": "Glendale",
   "date": "6/7"
 },
 {
@@ -281,7 +281,7 @@
   "country2": "1B/2A",
   "goals1": null,
   "goals2": null,
-  "city": "East Rutherford"
+  "city": "East Rutherford",
   "date": "9/7"
 },
 {
@@ -290,7 +290,7 @@
   "country2": "1D/2C",
   "goals1": null,
   "goals2": null,
-  "city": "Charlotte"
+  "city": "Charlotte",
   "date": "10/7"
 },
 {
@@ -299,7 +299,7 @@
   "country2": "C/D",
   "goals1": null,
   "goals2": null,
-  "city": "Charlotte"
+  "city": "Charlotte",
   "date": "13/7"
 },
 {
@@ -308,6 +308,6 @@
   "country2": "C/D",
   "goals1": null,
   "goals2": null,
-  "city": "Miami"
+  "city": "Miami",
   "date": "14/7"
 }]}
