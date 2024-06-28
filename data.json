@@ -203,8 +203,8 @@
     "group": "C",
     "country1": "URY",
     "country2": "BOL",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 5,
+    "goals2": 0,
     "city": "East Rutherford",
     "date": "27/06",
     "time": "22:00"
