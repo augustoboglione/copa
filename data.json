@@ -191,8 +191,8 @@
     "group": "C",
     "country1": "PAN",
     "country2": "USA",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 2,
+    "goals2": 1,
     "city": "Atlanta",
     "date": "27/06",
     "time": "19:00"
