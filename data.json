@@ -215,8 +215,8 @@
     "group": "D",
     "country1": "PRY",
     "country2": "BRA",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 1,
+    "goals2": 4,
     "city": "Las Vegas",
     "date": "28/06",
     "time": "22:00"
