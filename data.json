@@ -63,7 +63,7 @@
     "goals2": 0,
     "city": "Arlington",
     "date": "21/06",
-    "time": "20:00"
+    "time": "21:00"
   },
   {
     "id": 3,
@@ -75,7 +75,7 @@
     "goals2": 0,
     "city": "Houston",
     "date": "22/06",
-    "time": "21:00"
+    "time": "22:00"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "goals2": 2,
     "city": "Santa Clara",
     "date": "22/06",
-    "time": "16:00"
+    "time": "19:00"
   },
   {
     "id": 5,
@@ -99,7 +99,7 @@
     "goals2": 0,
     "city": "Arlington",
     "date": "23/06",
-    "time": "18:00"
+    "time": "19:00"
   },
   {
     "id": 6,
@@ -123,7 +123,7 @@
     "goals2": 0,
     "city": "Inglewood",
     "date": "24/06",
-    "time": "19:00"
+    "time": "22:00"
   },
   {
     "id": 8,
@@ -135,7 +135,7 @@
     "goals2": 1,
     "city": "Houston",
     "date": "24/06",
-    "time": "18:00"
+    "time": "19:00"
   },
   {
     "id": 9,
@@ -159,7 +159,7 @@
     "goals2": 1,
     "city": "Kansas City",
     "date": "25/06",
-    "time": "18:00"
+    "time": "19:00"
   },
   {
     "id": 11,
@@ -171,7 +171,7 @@
     "goals2": 0,
     "city": "Inglewood",
     "date": "26/06",
-    "time": "19:00"
+    "time": "22:00"
   },
   {
     "id": 12,
@@ -183,7 +183,7 @@
     "goals2": 1,
     "city": "Las Vegas",
     "date": "26/06",
-    "time": "16:00"
+    "time": "19:00"
   },
   {
     "id": 13,
@@ -219,7 +219,7 @@
     "goals2": null,
     "city": "Las Vegas",
     "date": "28/06",
-    "time": "19:00"
+    "time": "22:00"
   },
   {
     "id": 16,
@@ -231,7 +231,7 @@
     "goals2": 0,
     "city": "Glendale",
     "date": "28/06",
-    "time": "16:00"
+    "time": "18:00"
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "goals2": null,
     "city": "Glendale",
     "date": "30/06",
-    "time": "18:00"
+    "time": "20:00"
   },
   {
     "id": 20,
@@ -279,7 +279,7 @@
     "goals2": null,
     "city": "Austin",
     "date": "30/06",
-    "time": "20:00"
+    "time": "21:00"
   },
   {
     "id": 21,
@@ -291,7 +291,7 @@
     "goals2": null,
     "city": "Kansas City",
     "date": "01/07",
-    "time": "21:00"
+    "time": "22:00"
   },
   {
     "id": 22,
@@ -315,7 +315,7 @@
     "goals2": null,
     "city": "Santa Clara",
     "date": "02/07",
-    "time": "19:00"
+    "time": "22:00"
   },
   {
     "id": 24,
@@ -327,7 +327,7 @@
     "goals2": null,
     "city": "Austin",
     "date": "02/07",
-    "time": "21:00"
+    "time": "22:00"
   },
   {
     
@@ -339,7 +339,7 @@
     "goals2": null,
     "city": "Houston",
     "date": "04/07",
-    "time": "21:00"
+    "time": "22:00"
   },
   {
     "id": 26,
@@ -350,7 +350,7 @@
     "goals2": null,
     "city": "Arlington",
     "date": "05/07",
-    "time": "21:00"
+    "time": "22:00"
   },
   {
     "id": 27,
@@ -361,7 +361,7 @@
     "goals2": null,
     "city": "Las Vegas",
     "date": "06/07",
-    "time": "19:00"
+    "time": "22:00"
   },
   {
     "id": 28,
@@ -372,7 +372,7 @@
     "goals2": null,
     "city": "Glendale",
     "date": "06/07",
-    "time": "16:00"
+    "time": "18:00"
   },
   {
     "id": 29,
