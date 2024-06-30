@@ -251,8 +251,8 @@
     "group": "A",
     "country1": "CAN",
     "country2": "CHL",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 0,
     "city": "Orlando",
     "date": "29/06",
     "time": "21:00"
