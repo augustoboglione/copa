@@ -239,8 +239,8 @@
     "group": "A",
     "country1": "ARG",
     "country2": "PER",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 2,
+    "goals2": 0,
     "city": "Miami",
     "date": "29/06",
     "time": "21:00"
