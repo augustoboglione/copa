@@ -263,8 +263,8 @@
     "group": "B",
     "country1": "MEX",
     "country2": "ECU",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 0,
     "city": "Glendale",
     "date": "30/06",
     "time": "20:00"
@@ -275,8 +275,8 @@
     "group": "B",
     "country1": "JAM",
     "country2": "VEN",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 3,
     "city": "Austin",
     "date": "30/06",
     "time": "21:00"
