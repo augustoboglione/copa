@@ -287,8 +287,8 @@
     "group": "C",
     "country1": "USA",
     "country2": "URY",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 1,
     "city": "Kansas City",
     "date": "01/07",
     "time": "22:00"
@@ -299,8 +299,8 @@
     "group": "C",
     "country1": "BOL",
     "country2": "PAN",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 1,
+    "goals2": 3,
     "city": "Orlando",
     "date": "01/07",
     "time": "22:00"
