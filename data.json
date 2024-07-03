@@ -311,8 +311,8 @@
     "group": "D",
     "country1": "BRA",
     "country2": "COL",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 1,
+    "goals2": 1,
     "city": "Santa Clara",
     "date": "02/07",
     "time": "22:00"
@@ -323,8 +323,8 @@
     "group": "D",
     "country1": "CRI",
     "country2": "PRY",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 2,
+    "goals2": 1,
     "city": "Austin",
     "date": "02/07",
     "time": "22:00"
