@@ -335,8 +335,8 @@
     "stage": "Cuartos",
     "country1": "ARG",
     "country2": "ECU",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 0,
     "city": "Houston",
     "date": "04/07",
     "time": "22:00"
