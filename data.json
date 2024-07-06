@@ -346,8 +346,8 @@
     "stage": "Cuartos",
     "country1": "VEN",
     "country2": "CAN",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 1,
     "city": "Arlington",
     "date": "05/07",
     "time": "22:00"
