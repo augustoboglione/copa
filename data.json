@@ -358,8 +358,8 @@
     "stage": "Cuartos",
     "country1": "URY",
     "country2": "BRA",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 0,
     "city": "Las Vegas",
     "date": "06/07",
     "time": "22:00"
@@ -369,8 +369,8 @@
     "stage": "Cuartos",
     "country1": "COL",
     "country2": "PAN",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 5,
+    "goals2": 0,
     "city": "Glendale",
     "date": "06/07",
     "time": "18:00"
@@ -389,8 +389,8 @@
   {
     "id": 30,
     "stage": "Semifinales",
-    "country1": "G27",
-    "country2": "G28",
+    "country1": "URY",
+    "country2": "COL",
     "goals1": null,
     "goals2": null,
     "city": "Charlotte",
