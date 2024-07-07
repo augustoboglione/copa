@@ -1,4 +1,5 @@
 {
+  "winner": null,
   "groups": {
     "A": ["ARG", "CAN", "PER", "CHL"],
     "B": ["VEN", "MEX", "ECU", "JAM"],
