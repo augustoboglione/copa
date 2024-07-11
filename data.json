@@ -391,8 +391,8 @@
     "stage": "Semifinales",
     "country1": "URY",
     "country2": "COL",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 1,
     "city": "Charlotte",
     "date": "10/07",
     "time": "21:00"
@@ -400,8 +400,8 @@
   {
     "id": 31,
     "stage": "Tercer puesto",
-    "country1": "P29",
-    "country2": "P30",
+    "country1": "CAN",
+    "country2": "URY",
     "goals1": null,
     "goals2": null,
     "city": "Charlotte",
@@ -411,8 +411,8 @@
   {
     "id": 32,
     "stage": "Final",
-    "country1": "G29",
-    "country2": "G30",
+    "country1": "ARG",
+    "country2": "COL",
     "goals1": null,
     "goals2": null,
     "city": "Miami",
