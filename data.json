@@ -402,8 +402,8 @@
     "stage": "Tercer puesto",
     "country1": "CAN",
     "country2": "URY",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 2,
+    "goals2": 2,
     "city": "Charlotte",
     "date": "13/07",
     "time": "21:00"
