@@ -413,8 +413,8 @@
     "stage": "Final",
     "country1": "ARG",
     "country2": "COL",
-    "goals1": null,
-    "goals2": null,
+    "goals1": 0,
+    "goals2": 0,
     "city": "Miami",
     "date": "14/07",
     "time": "21:00"
