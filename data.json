@@ -1,5 +1,5 @@
 {
-  "winner": "G32",
+  "winner": "ARG",
   "groups": {
     "A": ["ARG", "CAN", "PER", "CHL"],
     "B": ["VEN", "MEX", "ECU", "JAM"],
@@ -413,7 +413,7 @@
     "stage": "Final",
     "country1": "ARG",
     "country2": "COL",
-    "goals1": 0,
+    "goals1": 1,
     "goals2": 0,
     "city": "Miami",
     "date": "14/07",
